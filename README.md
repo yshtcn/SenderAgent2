@@ -4,3 +4,6 @@
 
 ## 为什么叫SenderAgent2
 因为之前已经用C#写了一个SenderAgent程序，感觉用C#太笨重了，用python方便很多。
+
+## 使用方法
+（待完善...)
